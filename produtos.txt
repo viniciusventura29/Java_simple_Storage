@@ -1,0 +1,12 @@
+banana
+8
+maca
+6
+uva
+7
+pera
+5
+mamao
+2
+melao
+23

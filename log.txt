@@ -1,0 +1,159 @@
+O usuário vini iniciou o programa! --- 2022-06-08T09:51:18.583772278
+O usuário vini alterou a quantidade de um produto! --- 2022-06-08T09:51:22.270630485
+O usuário vini removeu um produto! --- 2022-06-08T09:51:23.053301765
+O usuário vini listou todos os produtos! --- 2022-06-08T09:51:24.270002731
+O usuário vini finzalizou o programa! --- 2022-06-08T09:51:25.118229041
+O usuário vini iniciou o programa! --- 2022-06-08T10:17:20.996777802
+O usuário vini cadastrou um produto! --- 2022-06-08T10:17:31.990727094
+O usuário vini iniciou o programa! --- 2022-06-08T10:18:05.352080318
+O usuário vini listou todos os produtos! --- 2022-06-08T10:18:08.032933188
+O usuário vini iniciou o programa! --- 2022-06-08T10:24:20.569072649
+O usuário vini listou todos os produtos! --- 2022-06-08T10:24:23.396074458
+O usuário vini iniciou o programa! --- 2022-06-08T10:24:58.493471017
+O usuário vini listou todos os produtos! --- 2022-06-08T10:25:05.685253114
+O usuário vini iniciou o programa! --- 2022-06-08T10:26:59.704866624
+O usuário vini listou todos os produtos! --- 2022-06-08T10:27:02.052139305
+O usuário vini finzalizou o programa! --- 2022-06-08T10:32:57.268594636
+O usuário vini iniciou o programa! --- 2022-06-08T10:34:52.314848017
+O usuário vini removeu um produto! --- 2022-06-08T10:35:00.401315487
+O usuário vini listou todos os produtos! --- 2022-06-08T10:35:04.178264174
+O usuário vini iniciou o programa! --- 2022-06-08T10:41:40.202706628
+O usuário vini listou todos os produtos! --- 2022-06-08T10:41:48.932968798
+O usuário vini removeu um produto! --- 2022-06-08T10:42:04.466880134
+O usuário vini listou todos os produtos! --- 2022-06-08T10:42:06.483253949
+O usuário vini finzalizou o programa! --- 2022-06-08T10:42:12.161773447
+O usuário vini iniciou o programa! --- 2022-06-08T10:45:38.684021867
+O usuário vini cadastrou um produto! --- 2022-06-08T10:45:56.140134507
+O usuário vini listou todos os produtos! --- 2022-06-08T10:46:02.297275426
+O usuário vini cadastrou um produto! --- 2022-06-08T10:46:34.738425373
+O usuário vini finzalizou o programa! --- 2022-06-08T10:46:38.481868799
+O usuário vini iniciou o programa! --- 2022-06-08T10:53:07.698986245
+O usuário vini iniciou o programa! --- 2022-06-08T10:53:53.483654447
+O usuário vini cadastrou um produto! --- 2022-06-08T10:54:01.891217238
+O usuário vini cadastrou um produto! --- 2022-06-08T10:54:07.526330838
+O usuário vini cadastrou um produto! --- 2022-06-08T10:54:15.635146433
+O usuário vini finzalizou o programa! --- 2022-06-08T10:54:20.339203306
+O usuário vini iniciou o programa! --- 2022-06-08T10:54:37.803974653
+O usuário vini listou todos os produtos! --- 2022-06-08T10:54:58.614277411
+O usuário vini iniciou o programa! --- 2022-06-08T10:58:59.393664720
+O usuário vini listou todos os produtos! --- 2022-06-08T10:59:44.547979730
+O usuário vini iniciou o programa! --- 2022-06-08T11:00:47.195835477
+O usuário vini listou todos os produtos! --- 2022-06-08T11:00:48.740765502
+O usuário vini iniciou o programa! --- 2022-06-08T11:02:36.603417756
+O usuário vini listou todos os produtos! --- 2022-06-08T11:02:38.054475732
+O usuário vini iniciou o programa! --- 2022-06-08T11:09:54.626250159
+O usuário vini removeu um produto! --- 2022-06-08T11:10:27.173606091
+O usuário vini listou todos os produtos! --- 2022-06-08T11:10:29.956792294
+O usuário vini finzalizou o programa! --- 2022-06-08T11:10:48.179964955
+O usuário vini iniciou o programa! --- 2022-06-08T11:11:17.955697081
+O usuário vini listou todos os produtos! --- 2022-06-08T11:11:20.855045720
+O usuário vini iniciou o programa! --- 2022-06-08T11:11:39.154413858
+O usuário vini removeu um produto! --- 2022-06-08T11:11:45.157131616
+O usuário vini listou todos os produtos! --- 2022-06-08T11:11:46.853262043
+O usuário vini cadastrou um produto! --- 2022-06-08T11:17:01.925025926
+O usuário vini removeu um produto! --- 2022-06-08T11:17:12.389115229
+O usuário vini listou todos os produtos! --- 2022-06-08T11:17:24.677131147
+O usuário vini finzalizou o programa! --- 2022-06-08T11:17:35.844270451
+O usuário vini iniciou o programa! --- 2022-06-08T11:18:39.522376027
+O usuário vini cadastrou um produto! --- 2022-06-08T11:18:57.685343235
+O usuário vini iniciou o programa! --- 2022-06-08T11:21:26.526056707
+O usuário vini listou todos os produtos! --- 2022-06-08T11:21:31.304542096
+O usuário vini iniciou o programa! --- 2022-06-09T08:56:33.747671768
+O usuário vini iniciou o programa! --- 2022-06-09T08:57:52.205126609
+O usuário vini iniciou o programa! --- 2022-06-09T08:58:38.014064999
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T08:58:42.708139306
+O usuário vini iniciou o programa! --- 2022-06-09T08:59:10.837360434
+O usuário vini iniciou o programa! --- 2022-06-09T08:59:40.816798902
+O usuário vini iniciou o programa! --- 2022-06-09T09:00:43.077735127
+O usuário vini iniciou o programa! --- 2022-06-09T09:01:04.542170901
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:01:13.931297538
+O usuário vini iniciou o programa! --- 2022-06-09T09:01:30.828838369
+O usuário vini iniciou o programa! --- 2022-06-09T09:02:00.111131512
+O usuário vini iniciou o programa! --- 2022-06-09T09:03:55.128853886
+O usuário vini iniciou o programa! --- 2022-06-09T09:04:36.843297329
+O usuário vini iniciou o programa! --- 2022-06-09T09:05:11.017542850
+O usuário vini iniciou o programa! --- 2022-06-09T09:05:46.677214393
+O usuário vini iniciou o programa! --- 2022-06-09T09:06:36.664488728
+O usuário vini iniciou o programa! --- 2022-06-09T09:07:14.174281916
+O usuário vini iniciou o programa! --- 2022-06-09T09:10:26.473856902
+O usuário vini iniciou o programa! --- 2022-06-09T09:13:24.050242737
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:13:35.893162371
+O usuário vini iniciou o programa! --- 2022-06-09T09:15:19.685087689
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:15:23.161482757
+O usuário vini finzalizou o programa! --- 2022-06-09T09:15:27.450440194
+O usuário vini iniciou o programa! --- 2022-06-09T09:16:01.027129084
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:16:04.876303305
+O usuário vini finzalizou o programa! --- 2022-06-09T09:16:13.604083683
+O usuário vini iniciou o programa! --- 2022-06-09T09:16:53.153250186
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:16:55.776759635
+O usuário vini finzalizou o programa! --- 2022-06-09T09:16:59.322580959
+O usuário vini iniciou o programa! --- 2022-06-09T09:17:33.358474132
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:17:42.292104228
+O usuário vini finzalizou o programa! --- 2022-06-09T09:17:43.874920077
+O usuário vini iniciou o programa! --- 2022-06-09T09:18:34.784194015
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:18:39.028141026
+O usuário vini finzalizou o programa! --- 2022-06-09T09:18:41.026872015
+O usuário vini iniciou o programa! --- 2022-06-09T09:19:19.446262407
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:19:24.564011499
+O usuário vini finzalizou o programa! --- 2022-06-09T09:19:26.394791251
+O usuário vini iniciou o programa! --- 2022-06-09T09:20:32.727743528
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:20:47.332535557
+O usuário vini finzalizou o programa! --- 2022-06-09T09:20:49.259510177
+O usuário vini iniciou o programa! --- 2022-06-09T09:21:03.727318393
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:21:10.195685446
+O usuário vini finzalizou o programa! --- 2022-06-09T09:21:11.970942419
+O usuário vini iniciou o programa! --- 2022-06-09T09:22:34.088597149
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:22:38.892799494
+O usuário vini finzalizou o programa! --- 2022-06-09T09:22:41.883354053
+O usuário vini iniciou o programa! --- 2022-06-09T09:23:06.502542911
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:23:11.092553300
+O usuário vini finzalizou o programa! --- 2022-06-09T09:23:12.946861393
+O usuário vini iniciou o programa! --- 2022-06-09T09:23:25.217121337
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:23:40.132881189
+O usuário vini finzalizou o programa! --- 2022-06-09T09:23:42.195226031
+O usuário vini iniciou o programa! --- 2022-06-09T09:31:12.398658220
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:31:15.365431262
+O usuário vini iniciou o programa! --- 2022-06-09T09:31:39.118699755
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:31:40.740811881
+O usuário vini iniciou o programa! --- 2022-06-09T09:32:16.033288432
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:32:19.582194176
+O usuário vini iniciou o programa! --- 2022-06-09T09:33:22.416639338
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:33:27.029723711
+O usuário vini iniciou o programa! --- 2022-06-09T09:33:49.363634891
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:33:54.357688686
+O usuário vini iniciou o programa! --- 2022-06-09T09:37:50.297790204
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:37:54.943739346
+O usuário vini iniciou o programa! --- 2022-06-09T09:39:11.201704406
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:39:14.770483444
+O usuário vini iniciou o programa! --- 2022-06-09T09:39:43.116052141
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:39:48.726072692
+O usuário vini iniciou o programa! --- 2022-06-09T09:40:32.040180358
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:40:35.568232558
+O usuário vini iniciou o programa! --- 2022-06-09T09:40:47.901334194
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:40:49.897850821
+O usuário vini iniciou o programa! --- 2022-06-09T09:41:49.361676416
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:41:51.027547959
+O usuário vini iniciou o programa! --- 2022-06-09T09:42:20.730555928
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:42:22.993232506
+O usuário vini iniciou o programa! --- 2022-06-09T09:42:43.791947266
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:42:50.913413391
+O usuário vini iniciou o programa! --- 2022-06-09T09:43:24.719302550
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:43:28.409244159
+O usuário vini iniciou o programa! --- 2022-06-09T09:44:15.586954793
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:44:21.898625251
+O usuário vini iniciou o programa! --- 2022-06-09T09:44:47.583027263
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:44:52.368979262
+O usuário vini iniciou o programa! --- 2022-06-09T09:45:52.621860721
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:45:58.897227429
+O usuário vini iniciou o programa! --- 2022-06-09T09:47:57.479430572
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:48:05.063136696
+O usuário vini finzalizou o programa! --- 2022-06-09T09:48:07.093816464
+O usuário vini iniciou o programa! --- 2022-06-09T09:49:45.823978391
+O usuário vini listou todos os produtos! --- 2022-06-09T09:49:54.009531666
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:50:04.230876219
+O usuário vini iniciou o programa! --- 2022-06-09T09:51:13.235778990
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:51:21.199933139
+O usuário vini listou todos os produtos! --- 2022-06-09T09:51:23.575539325
+O usuário vini alterou a quantidade de um produto! --- 2022-06-09T09:51:32.238646190
+O usuário vini listou todos os produtos! --- 2022-06-09T09:51:33.936235613
+O usuário vini finzalizou o programa! --- 2022-06-09T09:51:40.101932621
